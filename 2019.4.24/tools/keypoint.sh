@@ -1,0 +1,1 @@
+/usr/bin/python tools/densepose.py --cfg configs/DensePoseKeyPointsMask_ResNet50_FPN_s1x-e2e.yaml --wts configs/DensePoseKeyPointsMask_ResNet50_FPN_s1x-e2e.pkl --output-dir /home/server010/zhoukaiye/jianshen/jianshenshuju/test/testcoordinate/ /home/server010/zhoukaiye/jianshen/jianshenshuju/datasets/1204dataset/VID_20181204_161008.mp4

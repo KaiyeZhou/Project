@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/">
+    <file>Biaoti.png</file>
+    <file>BZDZ.png</file>
+    <file>BZDZ-1.png</file>
+    <file>CKHF.png</file>
+    <file>CKHF-1.png</file>
+    <file>DZSB.png</file>
+    <file>DZSB-1.png</file>
+    <file>JSUIdi.png</file>
+    <file>Logo.png</file>
+    <file>Rkuang.png</file>
+    <file>SPCJ.png</file>
+    <file>SPCJ-1.png</file>
+    <file>TC.png</file>
+    <file>TC-1.png</file>   
+  </qresource>
+</RCC>
+
